@@ -1,28 +1,23 @@
-<h1>Kodluyoruz Ilk Repo
-<h4>Bu repo <a href="kodluyoruz.org">Kodluyoruz</a> Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.</h4>
+# Kodluyoruz Ilk Repo
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-<h2>Installation</h2>
-<h4>Öncelikle projeyi clonelayın.
-<br>
-<br>
-https://github.com/zeynepasiyankosun/kodluyoruzilkrepo.git</h4>
+## Installation 
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-<h2>Usage</h2>
-<h4>Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-<br>
-<br>
-Linux için;
-</h4>
+git clone https://github.com/zeynepasiyankosun/kodluyoruzilkrepo.git`
+
+## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+### Linux için; 
 cd kodluyoruzilkrepo
-<br>
 code .
 
-<h2>Contributing</h2>
-<h4>Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.</h4>
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-<h2>Licence</h2>
-<a href="https://choosealicense.com/licenses/mit/">MIT</a>
-<br>
-<br>
-<h3>Projeden bir görüntü</h3>
-<img src="Screenshot_1.png">
+## Licence
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
